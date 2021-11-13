@@ -17,3 +17,5 @@ O conjunto de dados original é fornecido pelo [INEP](http://portal.inep.gov.br/
 <br><br>O desafio é descobrir quais `features` tem maior influência com a nota da prova de matemática no arquivo [`test.csv`](https://github.com/FGalvao77/Previsao-da-nota-de-matematica-do-Enem-2016/blob/main/datasets/test.csv) e, por fim criar um modelo preditivo para nota da prova de matemática **(coluna NU_NOTA_MT)**.
 
 **Vamos para o desafio!**
+
+Segue o link do [notebook](https://bit.ly/3nbdtXK).
