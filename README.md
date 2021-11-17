@@ -18,4 +18,4 @@ O conjunto de dados original é fornecido pelo [INEP](http://portal.inep.gov.br/
 
 **Vamos para o desafio!**
 
-Segue o link do [notebook](https://bit.ly/3nbdtXK).
+Segue o link do [notebook](https://bit.ly/3HtwwEH).
